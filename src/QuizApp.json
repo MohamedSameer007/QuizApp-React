@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "correctOption": "Paris"
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctOption": "Mars"
+    },
+    {
+      "id": 3,
+      "question": "What is the largest planet in our Solar System?",
+      "options": ["Earth", "Jupiter", "Mars", "Saturn"],
+      "correctOption": "Jupiter"
+    },
+    {
+      "id": 4,
+      "question": "What is the boiling point of water in Celsius?",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "correctOption": "100°C"
+    },
+    {
+      "id": 5,
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "Japan", "Thailand", "India"],
+      "correctOption": "Japan"
+    },
+    {
+      "id": 6,
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+      "correctOption": "Leonardo da Vinci"
+    },
+    {
+      "id": 7,
+      "question": "What is the chemical symbol for water?",
+      "options": ["O2", "H2O", "CO2", "HO"],
+      "correctOption": "H2O"
+    },
+    {
+      "id": 8,
+      "question": "What is the capital of Italy?",
+      "options": ["Rome", "Milan", "Naples", "Venice"],
+      "correctOption": "Rome"
+    },
+    {
+      "id": 9,
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "correctOption": "2"
+    },
+    {
+      "id": 10,
+      "question": "Which element has the atomic number 1?",
+      "options": ["Helium", "Oxygen", "Hydrogen", "Nitrogen"],
+      "correctOption": "Hydrogen"
+    }
+  ]
+  
